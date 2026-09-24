@@ -1,2 +1,2 @@
 # simon-game
-An interactive Simon Game build using HTML, CSS, and JavaScript
+Interactive Simon Game using HTML, CSS, and JavaScript
